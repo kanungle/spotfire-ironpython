@@ -1,3 +1,8 @@
+# Neil Kanungo
+# TIBCO Software
+# January 2023
+# Set the font size and style to all visualizations on the active page
+
 from Spotfire.Dxp.Application.Visuals import VisualContent, VisualTypeIdentifiers
 from System.Drawing import * 
 
